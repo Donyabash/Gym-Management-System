@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GeneralColors.qml</file>
+        <file>Resources/analysis.svg</file>
+        <file>Resources/background.png</file>
+        <file>Resources/dashboard.svg</file>
+        <file>Resources/plans.svg</file>
+        <file>Resources/sports.svg</file>
+        <file>Resources/members.svg</file>
+        <file>Resources/logo.svg</file>
+        <file>Resources/edite.svg</file>
+        <file>Resources/Profile.qml</file>
+        <file>Resources/ChartS.qml</file>
+        <file>PopularClasses.qml</file>
+        <file>Models.qml</file>
+        <file>Table.qml</file>
+        <file>FinanceTable.qml</file>
+        <file>Plans.qml</file>
+        <file>Setting.qml</file>
+        <file>Reports.qml</file>
+        <file>Classes.qml</file>
+        <file>Dashboard.qml</file>
+        <file>ExportButton.qml</file>
+        <file>TabButton.qml</file>
+    </qresource>
+</RCC>

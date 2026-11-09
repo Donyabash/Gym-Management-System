@@ -1,0 +1,10 @@
+# Qt Creator & Build artifacts
+*.user
+*.user.*
+build/
+*.autosave
+.qmake.stash
+Makefile*
+*.o
+*.obj
+*.exe
